@@ -1,8 +1,3 @@
-ใช่เลยครับ ตกหล่นส่วน environment: ไปจริงๆ (บล็อกนี้หายไปทั้งก้อน) และ id: deployment ก็หายไปด้วย
-
-แก้โดยเอาทั้งไฟล์นี้ไป copy ทับใหม่:
-
-yaml
 name: Deploy to GitHub Pages
 
 on:
